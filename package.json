@@ -1,0 +1,27 @@
+{
+  "name": "monitoramento-mdm",
+  "version": "0.2.5",
+  "author": "Rodrigo Wippel HBSIS",
+  "description": "Painel de monitoramento mdm",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/monitoramento-mdm"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
+

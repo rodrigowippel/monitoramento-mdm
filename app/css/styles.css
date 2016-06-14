@@ -1,0 +1,24 @@
+body{
+  overflow: hidden;
+  background-color: #f9f9f9;
+}
+
+.header-painel{
+    top: 0;
+    margin: 0 auto;
+    left: 35%;
+    background: #ffff99;
+    color: #000;
+    opacity: .8;
+    z-index: 9999;
+    width: 30%;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 0 5px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.panel-body{
+   max-height: 350px;
+}
